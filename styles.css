@@ -152,13 +152,15 @@ h2 {
 
   @media (max-width: 600px) {
     h1{
-      font-size: 35px;
+      font-size: 30px;
       text-align: center;
       align-items: center;
       position: sticky;
     }
-    h2{
-      font-size: 15px;
+    .section2 h2{
+      font-size: 30px;
+      text-align: center;
+      padding-left: 100px;
     }
     h3{
       padding-top: 120px;
